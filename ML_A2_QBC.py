@@ -8,7 +8,7 @@ from sklearn.linear_model import LogisticRegression
 import math
 
 #stream-based
-ini_frac = 0.25
+ini_frac = 0.22
 index = 0
 #data
 df = pd.read_csv('haberman.data',header=None)
